@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order/>
-        <roles>x_563581_loner_req.loaner_request_user</roles>
+        <roles>x_563581_loner_req.loaner_request_user,x_563581_loner_req.admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-14 06:28:16</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>505c0cc1072320105a5dfa7f7c1ed0c3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Loner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loner Request" source="x_563581_loner_req">f40b8441072320105a5dfa7f7c1ed044</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Loner Request">f40b8441072320105a5dfa7f7c1ed044</sys_scope>
         <sys_update_name>sys_app_application_505c0cc1072320105a5dfa7f7c1ed0c3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-14 06:28:16</sys_updated_on>
+        <sys_updated_on>2021-04-14 12:19:42</sys_updated_on>
         <title>Loner Request</title>
         <view_name/>
     </sys_app_application>
