@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Loaner Task" language="en" table="x_563581_loner_req_loaner_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Loaner Task</label>
+            <language>en</language>
+            <name>x_563581_loner_req_loaner_task</name>
+            <plural>Loaner Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-15 03:43:19</sys_created_on>
+            <sys_id>f520f091072320105a5dfa7f7c1ed0ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loaner Task</sys_name>
+            <sys_package display_value="Loner Request" source="x_563581_loner_req">f40b8441072320105a5dfa7f7c1ed044</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loner Request">f40b8441072320105a5dfa7f7c1ed044</sys_scope>
+            <sys_update_name>sys_documentation_x_563581_loner_req_loaner_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-15 03:43:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
